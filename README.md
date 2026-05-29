@@ -1,19 +1,20 @@
-<h1 align="left">Hey, I'm Zero (ゼロ) ✧</h1>
+<h1 align="left">Hey, I'm Rajesh Bhanushali ✧</h1>
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/82/c6/5b/82c65b9ba0a0a56fcb4cb40ef1a58c0c.gif" alt="Cyberpunk City Aesthetic GIF" />
+<img align="right" height="200" src="https://media.giphy.com/media/VnXzXEQ6i9BNC/giphy.gif" alt="Cyberpunk Aesthetic GIF" />
 
 <p align="left">
   <i>"Automating the present to rewrite the future."</i> ⚡
 </p>
 
 <p align="left">
-  I'm an <b>Automation Developer</b> & <b>Anime Enthusiast</b> operating from the shadows. I specialize in building multi-agent AI systems, Discord bots, and seamless automation architectures. When I'm not writing scripts that run themselves, I'm probably bingeing high-tier manga or designing next-gen tech concepts.
+  I'm an <b>Automation Developer</b> & <b>AI Engineer</b> with a passion for building autonomous systems and solving complex problems. I specialize in crafting multi-agent architectures, dynamic Discord swarms, and tools that streamline developer workflows. Whether it's analyzing repos with AI or managing a homelab, I build systems that run themselves.
 </p>
 
 ### 🌌 What I'm currently up to:
-- 🤖 Building a highly modular <b>AI Discord Swarm</b> for dynamic multi-LLM routing.
-- 🕷️ Crawling the web and scraping data faster than you can say *Bankai*.
-- 🛠️ Fine-tuning developer workflows and creating CLI utilities.
+- 🤖 Building **Ag-Sentinel** & **autofixer-agent** — autonomous AI systems for server monitoring and self-healing code.
+- ⚡ Developing **repo-god**, an AI-powered GitHub repo health analyzer and auditor.
+- 🛠️ Maintaining **homelab-monitor** for seamless GPU & local-AI model tracking.
+- 📚 Expanding **Mangaverse**, bridging the gap between automation and my love for anime/manga.
 
 ---
 
@@ -22,9 +23,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
 ---
