@@ -29,6 +29,13 @@
 </p>
 
 ---
+
+### 🌃 The Commit City (3D Graph)
+<p align="center">
+  <a href="https://github.com/turfin-logic"><img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" /></a>
+</p>
+
+---
 ### 🖥️ System Terminal
 
 ```text
