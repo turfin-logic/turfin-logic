@@ -1,6 +1,6 @@
 <h1 align="left">Hey, I'm Rajesh Bhanushali ✧</h1>
 
-<img align="right" height="200" src="https://media.giphy.com/media/VnXzXEQ6i9BNC/giphy.gif" alt="Cyberpunk Aesthetic GIF" />
+<img align="right" height="180" src="Ghost of shell.gif" />
 
 <p align="left">
   <i>"Automating the present to rewrite the future."</i> ⚡
