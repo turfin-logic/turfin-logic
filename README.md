@@ -1,6 +1,6 @@
 <h1 align="left">Hey, I'm Rajesh Bhanushali ✧</h1>
 
-<img align="right" height="180" src="Ghost of shell.gif" />
+<a href="https://github.com/turfin-logic"><img align="right" height="180" src="Ghost of shell.gif" /></a>
 
 <p align="left">
   <i>"Automating the present to rewrite the future."</i> ⚡
@@ -21,11 +21,11 @@
 ### 🗡️ Tech Stack & Arsenal
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
+  <a href="https://microsoft.com/powershell"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /></a>
+  <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /></a>
 </p>
 
 ---
@@ -55,5 +55,5 @@
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=150&section=footer&text=End%20Transmission...&fontSize=24&fontColor=ffffff&fontAlignY=40" />
+  <a href="https://github.com/turfin-logic"><img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=150&section=footer&text=End%20Transmission...&fontSize=24&fontColor=ffffff&fontAlignY=40" /></a>
 </p>
