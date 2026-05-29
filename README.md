@@ -32,11 +32,16 @@
 
 ### 📊 System Diagnostics
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com/?user=turfin-logic&theme=tokyonight&hide_border=true" width="450" />
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=turfin-logic&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" alt="turfin-logic" />
+  </a>
 </div>
-
 <br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=turfin-logic&theme=dark&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turfin-logic&theme=dark&hide_border=true&layout=compact&bg_color=0D1117" width="40%" />
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=150&section=footer&text=End%20Transmission...&fontSize=24&fontColor=ffffff&fontAlignY=40" />
