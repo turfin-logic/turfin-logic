@@ -48,7 +48,11 @@
 ---
 
 ### 📫 Let's Connect
-- **Discord:** `law_deth_77` (Ping me for AI, hacking, or cool projects!)
+<a href="https://discordapp.com/users/law_deth_77" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-law__deth__77-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<br/>
+<em>(Ping me for AI, hacking, or cool projects!)</em>
 
 ---
 
