@@ -10,8 +10,6 @@
   <em>I aggressively leverage AI, Python, and Docker to ship products faster than traditional engineers. <br> I don't just write code; I build autonomous systems that write code for me.</em>
 </p>
 
-
-
 ---
 
 ### 🚀 What I Do
@@ -19,6 +17,12 @@
 - ☁️ **Cloud & Infrastructure:** Dockerizing applications, setting up CI/CD pipelines, and managing high-performance deployments.
 - ⚡ **Full-Stack Development:** Shipping dynamic web apps using modern frameworks (Next.js, React) with robust backend architectures (Go, Python, PostgreSQL).
 - 🔐 **DevSecOps:** Building environment security guards and ensuring safe, scalable LLM orchestration.
+
+---
+
+### 🌱 Current Focus & Open Source
+- Actively contributing to **[UXTU4Linux](https://github.com/HorizonUnix/UXTU4Linux)** (System automation & tuning).
+- Exploring Multi-Agent AI systems with **[Waggle](https://github.com/waggle-sensor/waggle)**.
 
 ---
 
@@ -40,6 +44,11 @@
 * **[⚖️ Nyay-Setu-Working](https://github.com/turfin-logic/nyay-setu-working):** A microservices-based architecture for digitizing judicial processes using NLP and distributed orchestration.
 * **[🛡️ Env-Secure-Guard](https://github.com/turfin-logic/env-secure-guard):** Security tooling for safe credential handling and environment validation in autonomous agent setups.
 * **[🔌 MCP-Quickstart](https://github.com/turfin-logic/mcp-quickstart-python):** Boilerplate and architecture reference for building high-speed Model Context Protocol servers in Python.
+
+---
+
+### 📫 Let's Connect
+- **Discord:** `law_deth_77` (Ping me for AI, hacking, or cool projects!)
 
 ---
 
