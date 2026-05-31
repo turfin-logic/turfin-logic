@@ -4,7 +4,7 @@
 
 <h1 align="center">⚡ Hi there, I'm Zero (Rajesh Bhanushali)</h1>
 
-<img align="right" height="200" src="https://media.giphy.com/media/VnXzXEQ6i9BNC/giphy.gif" alt="Cyberpunk Aesthetic GIF" />
+<img align="right" height="200" src="Ghost%20of%20shell.gif" alt="Cyberpunk Aesthetic GIF" />
 
 <p align="left">
   <em>I aggressively leverage AI, Python, and Docker to ship products faster than traditional engineers. <br> I don't just write code; I build autonomous systems that write code for me.</em>
