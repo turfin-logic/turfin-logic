@@ -48,7 +48,7 @@
 ---
 
 ### 📫 Let's Connect
-<a href="https://discordapp.com/users/law_deth_77" target="_blank">
+<a href="https://discord.gg/n95nfbD3" target="_blank">
   <img src="https://img.shields.io/badge/Discord-law__deth__77-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 <br/>
