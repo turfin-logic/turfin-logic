@@ -4,19 +4,13 @@
 
 <h1 align="center">⚡ Hi there, I'm Zero (Rajesh Bhanushali)</h1>
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/82/c6/5b/82c65b9ba0a0a56fcb4cb40ef1a58c0c.gif" alt="Cyberpunk City Aesthetic GIF" />
+<img align="right" height="200" src="https://media.giphy.com/media/VnXzXEQ6i9BNC/giphy.gif" alt="Cyberpunk Aesthetic GIF" />
 
 <p align="left">
   <em>I aggressively leverage AI, Python, and Docker to ship products faster than traditional engineers. <br> I don't just write code; I build autonomous systems that write code for me.</em>
 </p>
 
-<div align="center">
-  <a href="https://github.com/turfin-logic"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</div>
+
 
 ---
 
