@@ -43,6 +43,8 @@
 * **[🤖 AutoFixer-Agent](https://github.com/turfin-logic/autofixer-agent):** An autonomous AI agent that watches production logs, identifies stack traces, generates code fixes, and automatically opens Pull Requests.
 * **[⚖️ Nyay-Setu-Working](https://github.com/turfin-logic/nyay-setu-working):** A microservices-based architecture for digitizing judicial processes using NLP and distributed orchestration.
 * **[🛡️ Env-Secure-Guard](https://github.com/turfin-logic/env-secure-guard):** Security tooling for safe credential handling and environment validation in autonomous agent setups.
+* **[🔔 NotifyIQ](https://github.com/turfin-logic/notifyiq):** AI-powered GitHub notification triage CLI — classifies, prioritizes, and auto-manages your GitHub notifications with smart CI-noise filtering.
+* **[📡 Repo-God](https://github.com/turfin-logic/repo-god):** One-command repo health dashboard — fork stats, issue velocity, contributor graph, and discoverability audit in your terminal.
 * **[🔌 MCP-Quickstart](https://github.com/turfin-logic/mcp-quickstart-python):** Boilerplate and architecture reference for building high-speed Model Context Protocol servers in Python.
 
 ---
@@ -59,9 +61,13 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=turfin-logic&show_icons=true&theme=tokyonight" alt="Zero's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=turfin-logic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Zero's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turfin-logic&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=turfin-logic&theme=tokyonight" alt="Zero's GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=turfin-logic&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
