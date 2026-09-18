@@ -1,32 +1,34 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Zero%20(Rajesh%20Bhanushali)&fontSize=70&fontAlignY=35&desc=AI%20Automation%20Architect%20|%20Full-Stack%20Hacker&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Zero%20(Rajesh%20Bhanushali)&fontSize=70&fontAlignY=35&desc=Business%20student%20building%20with%20AI%2C%20automation%2C%20apps%20%26%20games&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
-<h1 align="center">⚡ Hi there, I'm Zero (Rajesh Bhanushali)</h1>
+<h1 align="center">Hi, I'm Zero (Rajesh Bhanushali)</h1>
 
 <img align="right" height="200" src="Ghost%20of%20shell.gif" alt="Cyberpunk Aesthetic GIF" />
 
 <p align="left">
-  <em>I aggressively leverage AI, Python, and Docker to ship products faster than traditional engineers. <br> I don't just write code; I build autonomous systems that write code for me.</em>
+  I'm a Business student who builds software using AI as a core tool. I use AI heavily — not to hide it, but because it lets me ship things that would otherwise take much longer. I work on automation scripts, Android apps, games, and web experiments. Most of what I build is practical: tools I actually wanted to exist.
 </p>
 
 ---
 
-### 🚀 What I Do
-- 🛠️ **Building AI Agents:** Architecting LLM-powered swarms that debug production code and automate workflows (e.g., `autofixer-agent`).
-- ☁️ **Cloud & Infrastructure:** Dockerizing applications, setting up CI/CD pipelines, and managing high-performance deployments.
-- ⚡ **Full-Stack Development:** Shipping dynamic web apps using modern frameworks (Next.js, React) with robust backend architectures (Go, Python, PostgreSQL).
-- 🔐 **DevSecOps:** Building environment security guards and ensuring safe, scalable LLM orchestration.
+### What I Work On
+
+- **AI-assisted automation:** Scripts and agents that handle repetitive tasks — GitHub workflows, notification triage, log monitoring.
+- **Web apps:** Frontend and backend projects using Python, TypeScript, and Go, mostly built with AI assistance.
+- **Android apps & games:** Experimenting with mobile development.
+- **YunoAI:** Working on a project focused on building apps, websites, and automation for clients.
 
 ---
 
-### 🌱 Current Focus & Open Source
-- Actively contributing to **[UXTU4Linux](https://github.com/HorizonUnix/UXTU4Linux)** (System automation & tuning).
+### Current Focus & Open Source
+
+- Contributing to **[UXTU4Linux](https://github.com/HorizonUnix/UXTU4Linux)** (System automation & tuning).
 - Exploring Multi-Agent AI systems with **[Waggle](https://github.com/waggle-sensor/waggle)**.
 
 ---
 
-### 💻 My Tech Stack
+### My Tech Stack
 
 | Category | Technologies |
 |---|---|
@@ -38,27 +40,28 @@
 
 ---
 
-### 🔥 Top Projects
+### Projects
 
-* **[🤖 AutoFixer-Agent](https://github.com/turfin-logic/autofixer-agent):** An autonomous AI agent that watches production logs, identifies stack traces, generates code fixes, and automatically opens Pull Requests.
-* **[⚖️ Nyay-Setu-Working](https://github.com/turfin-logic/nyay-setu-working):** A microservices-based architecture for digitizing judicial processes using NLP and distributed orchestration.
-* **[🛡️ Env-Secure-Guard](https://github.com/turfin-logic/env-secure-guard):** Security tooling for safe credential handling and environment validation in autonomous agent setups.
-* **[🔔 NotifyIQ](https://github.com/turfin-logic/notifyiq):** AI-powered GitHub notification triage CLI — classifies, prioritizes, and auto-manages your GitHub notifications with smart CI-noise filtering.
-* **[📡 Repo-God](https://github.com/turfin-logic/repo-god):** One-command repo health dashboard — fork stats, issue velocity, contributor graph, and discoverability audit in your terminal.
-* **[🔌 MCP-Quickstart](https://github.com/turfin-logic/mcp-quickstart-python):** Boilerplate and architecture reference for building high-speed Model Context Protocol servers in Python.
+* **[AutoFixer-Agent](https://github.com/turfin-logic/autofixer-agent):** An AI agent that monitors logs, identifies errors, generates code fixes, and opens Pull Requests automatically.
+* **[Nyay-Setu-Working](https://github.com/turfin-logic/nyay-setu-working):** An experiment in digitizing judicial processes using NLP and a microservices setup.
+* **[Env-Secure-Guard](https://github.com/turfin-logic/env-secure-guard):** A tool for safe credential handling and environment validation in agent setups.
+* **[NotifyIQ](https://github.com/turfin-logic/notifyiq):** CLI tool that classifies and prioritizes GitHub notifications, filtering out CI noise.
+* **[Repo-God](https://github.com/turfin-logic/repo-god):** One-command repo health dashboard — fork stats, issue velocity, contributor graph, and discoverability audit in your terminal.
+* **[MCP-Quickstart](https://github.com/turfin-logic/mcp-quickstart-python):** Boilerplate for building Model Context Protocol servers in Python.
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
+
 <a href="https://discord.gg/n95nfbD3" target="_blank">
   <img src="https://img.shields.io/badge/Discord-law__deth__77-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 <br/>
-<em>(Ping me for AI, hacking, or cool projects!)</em>
+<em>(Ping me for AI, automation, or cool projects.)</em>
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=turfin-logic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Zero's GitHub Stats" />
