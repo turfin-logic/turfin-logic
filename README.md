@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Zero%20%E2%80%94%20Rajesh%20Bhanushali&fontSize=50&fontAlignY=38&desc=%F0%9F%A4%96%20Building%20with%20AI%20%C2%B7%20Apps%20%C2%B7%20Automation&descAlignY=58&descAlign=50" alt="Header" />
 </div>
 
----
+<h1 align="center">Hi, I'm Zero (Rajesh Bhanushali)</h1>
+
+<img align="right" height="200" src="Ghost%20of%20shell.gif" alt="Cyberpunk Aesthetic GIF" />
 
 I study Business. I build software — mostly using AI as a tool, not a personality.
 
