@@ -42,19 +42,16 @@ Things I'm interested in: automation that actually saves time, apps that ship fa
 <br/>
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=turfin-logic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=turfin-logic&theme=tokyonight)
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turfin-logic&layout=compact&theme=tokyonight&langs_count=8)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=turfin-logic&theme=tokyonight)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=turfin-logic&theme=tokyonight)
 
 <br/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=turfin-logic&theme=tokyonight)
-
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=turfin-logic&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true)
 
 </div>
 </details>
