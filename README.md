@@ -72,7 +72,7 @@ Things I'm interested in: automation that actually saves time, apps that ship fa
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=turfin-logic&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://hits.sh/github.com/turfin-logic/hits.svg?label=Profile%20Views&color=0e75b6&style=flat&extraCount=221" alt="Profile Views" />
 
 </div>
 
