@@ -59,7 +59,7 @@ Things I'm interested in: automation that actually saves time, apps that ship fa
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=turfin-logic&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=turfin-logic&theme=tokyonight&cb=1793038647)
 
 </div>
 </details>
