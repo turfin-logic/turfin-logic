@@ -68,7 +68,7 @@ Things I'm interested in: automation that actually saves time, apps that ship fa
 
 <div align="center">
 
-<a href="https://discord.gg/n95nfbD3"><img src="https://img.shields.io/badge/Discord-law__deth__77-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://discord.gg/n95nfbD3"><img src="https://img.shields.io/badge/Discord-law__deth__77-5865F2?style=for-the-badge&logo=discord&logoColor=white&cb=1795509256" alt="Discord" /></a>
 
 <br/><br/>
 
